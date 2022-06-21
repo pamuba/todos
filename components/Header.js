@@ -13,7 +13,7 @@ export default function Header(){
 const styles = StyleSheet.create({
     header:{
         height:80,
-        marginTop:38,
+        marginTop:1,
         backgroundColor:'coral'
     },
     title:{
